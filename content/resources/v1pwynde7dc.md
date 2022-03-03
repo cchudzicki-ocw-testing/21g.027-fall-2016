@@ -1,0 +1,11 @@
+---
+content_type: resource
+description: ''
+file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21g-027-asia-in-the-modern-world-images-representations-fall-2016/4a5b4c970126ff5b353907c2f38f42e3_v1pwYnDe7dc.srt
+file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: ''
+resourcetype: Other
+title: 3play caption file
+uid: 4a5b4c97-0126-ff5b-3539-07c2f38f42e3
+---
