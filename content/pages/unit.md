@@ -6,7 +6,7 @@ title: Unit
 uid: 4d7d9296-ec45-fdca-8c2f-331b98e8cfcd
 ---
 
-[{{< resource 1d2db103-6981-2b78-b6d8-ab5dd9b89391 >}}](/ans7870/21f/21f.027/home/index.html)
+{{< resource uuid="1d2db103-6981-2b78-b6d8-ab5dd9b89391" href="/ans7870/21f/21f.027/home/index.html" >}}
 
 What is Visualizing Cultures?
 -----------------------------
